@@ -1,12 +1,32 @@
 # The work of Eric Liu
 
-## Programming in JAva
-* test 1
-
-
+## Programming in Java
+* Nim
+* Mancala
+* CGOL
+* 2D Array
+* Fibonacci
+* Time
+* SuperArray
 
 ## Data Structures
-* test 2
+* ArrayList
+* LinkedList
+* Doubly Linked List
+* Queue
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Knight's Tour
 
 ## Methods 1
-* test 3
+* GitHub
+* Live coding
+* Pair Programming
+* Code Tracing
+* Diagrams
+* NetLogo
+* Scaffolding
+** Sub-goal labeling
+** Starter-code
