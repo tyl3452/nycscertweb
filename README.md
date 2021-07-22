@@ -28,5 +28,5 @@
 * Diagrams
 * NetLogo
 * Scaffolding
-** Sub-goal labeling
-** Starter-code
+- Sub-goal labeling
+- Starter-code
