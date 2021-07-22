@@ -1,7 +1,12 @@
-### nycscertweb
+# The work of Eric Liu
 
-## Contributors
-Peter Tsun
-Eric Liu
+## Programming in JAva
+* test 1
 
-* Testing asterisk
+
+
+## Data Structures
+* test 2
+
+## Methods 1
+* test 3
